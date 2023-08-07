@@ -61,7 +61,7 @@ public class Point {
     }
 }
 
-////Player sınıfı
+
 
 public class Player {
     private String name;
